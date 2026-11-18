@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 600">
+  <defs>
+    <linearGradient id="sky" x2="0" y2="1"><stop stop-color="#d89f84"/><stop offset="1" stop-color="#f0d7b1"/></linearGradient>
+    <linearGradient id="hill" x2="0" y2="1"><stop stop-color="#776350"/><stop offset="1" stop-color="#3d5143"/></linearGradient>
+  </defs>
+  <rect width="800" height="600" fill="url(#sky)"/>
+  <circle cx="602" cy="170" r="68" fill="#f3d9a6" opacity=".8"/>
+  <path d="M0 338 135 229l93 90 132-144 163 174 106-126 171 142v235H0Z" fill="#a87d66"/>
+  <path d="M0 393q170-107 333 0t467-18v225H0Z" fill="url(#hill)"/>
+  <path d="M0 473q193-119 385-15t415-42v184H0Z" fill="#455343"/>
+  <g fill="#283a31"><path d="M120 467q-5-95 4-151 25 36 22 151Zm571-28q4-87-7-137-25 34-19 139Z"/><circle cx="133" cy="304" r="43"/><circle cx="690" cy="301" r="38"/></g>
+  <text x="400" y="550" text-anchor="middle" fill="#f8e9d5" font-family="Georgia,serif" font-size="24" letter-spacing="3">TUSCANY AT DUSK</text>
+</svg>

@@ -1,0 +1,1 @@
+Place your licensed wedding song at `public/audio/song.mp3` (or update `music.src` in `src/data/wedding.ts`). The player uses lazy browser loading and starts after the guest's first tap. Only use audio you have permission to publish.

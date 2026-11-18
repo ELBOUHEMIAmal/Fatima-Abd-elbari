@@ -1,0 +1,1 @@
+Replace `couple-placeholder.svg` with a wedding photo and update the image path in `src/components/Story.tsx`. Replace `envelope-cover.png` with your own invitation cover to personalize the intro. Keep images compressed (WebP or AVIF recommended) for faster loading.
